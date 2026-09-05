@@ -32,15 +32,11 @@ Este repositorio reúne trabajos desarrollados durante mi formación en análisi
 
 ### Inferencia estadística
 
-El trabajo simula 200 estudiantes, explora y trata valores nulos, analiza la distribución del puntaje de satisfacción, calcula un intervalo de confianza del 95% y realiza una prueba t de una muestra.
-
-![Histograma de satisfacción](projects/inferencia-estadistica/histograma_satisfaccion_gabriela_duran.png)
+El trabajo simula 200 estudiantes, explora y trata valores nulos, analiza la distribución del puntaje de satisfacción, calcula un intervalo de confianza del 95% y realiza una prueba t de una muestra. El script genera automáticamente su histograma de resultados al ejecutarse.
 
 ### Aprendizaje no supervisado
 
-El trabajo utiliza preprocesamiento, K-means y **Silhouette Score** para elegir el número de clusters, y luego aplica **PCA** para visualizar la segmentación en dos dimensiones.
-
-![Clusters visualizados con PCA](projects/aprendizaje-no-supervisado/clusters_pca.png)
+El trabajo utiliza preprocesamiento, K-means y **Silhouette Score** para elegir el número de clusters, y luego aplica **PCA** para visualizar la segmentación en dos dimensiones. El script genera la visualización de clusters como archivo PNG.
 
 ## Buenas prácticas aplicadas
 
