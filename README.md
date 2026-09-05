@@ -67,7 +67,6 @@ Después, entra a la carpeta del proyecto y ejecuta su archivo `.py`. Cada proye
 ## Documentación de la entrega
 
 - [Planificación, criterios y mejoras aplicadas](docs/planificacion-portafolio.md)
-- [Checklist de cumplimiento de rúbrica](docs/checklist-rubrica.md)
 - [Versión web del portafolio](index.html)
 
 ---
